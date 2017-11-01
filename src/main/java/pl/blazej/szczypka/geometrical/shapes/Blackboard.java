@@ -1,5 +1,7 @@
 package pl.blazej.szczypka.geometrical.shapes;
 
+// zmieniłem strukturę katalogów na standardową
+// https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
 public class Blackboard {
 
     // ogólnie brak uwag, jest dobrze, drobna kosmetyka (formatowanie kodu, podział kodu)
